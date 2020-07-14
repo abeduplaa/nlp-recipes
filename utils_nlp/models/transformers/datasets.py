@@ -240,7 +240,7 @@ def _line_iter(file_path):
             yield line
 
 
-def _preprocess(sentences, preprocess_pipeline, word_tokenize=None):
+def _preprocess(sentences, preprocess_pipeline, word_tokenize=None, language=None):
     """
     Helper function to preprocess a list of paragraphs.
 
@@ -255,13 +255,18 @@ def _preprocess(sentences, preprocess_pipeline, word_tokenize=None):
     """
     if preprocess_pipeline is not None:
         for function in preprocess_pipeline:
-            sentences = function(sentences)
+            if language is None:
+                sentences = function(sentences)
+            else:
+                sentences = function(sentences)
 
     if word_tokenize is None:
         return sentences
     else:
-        return sentences, [word_tokenize(sentence) for sentence in sentences]
-
+        if language is None:
+            return sentences, [word_tokenize(sentence) for sentence in sentences]
+        else:
+            return sentences, [word_tokenize(sentence, language=language) for sentence in sentences]
 
 def _create_data_from_iterator(iterator, preprocessing, word_tokenize):
     for line in iterator:
@@ -349,6 +354,7 @@ class SummarizationDataset(Dataset):
         word_tokenize=None,
         top_n=-1,
         n_processes=-1,
+        language='german',
     ):
         """
         Create a summarization dataset instance given the
@@ -403,6 +409,7 @@ class SummarizationDataset(Dataset):
             preprocess_pipeline=source_preprocessing,
             word_tokenize=word_tokenize,
             num_pool=n_processes,
+            language=language,
         )
         if word_tokenize:
             self._source_txt = list(
@@ -422,6 +429,7 @@ class SummarizationDataset(Dataset):
                 preprocess_pipeline=target_preprocessing,
                 word_tokenize=word_tokenize,
                 num_pool=n_processes,
+                language=language,
             )
 
             if word_tokenize:
@@ -488,7 +496,7 @@ class SummarizationDataset(Dataset):
 
 
 def parallel_preprocess(
-    input_data, preprocess_pipeline, word_tokenize=None, num_pool=-1
+    input_data, preprocess_pipeline, word_tokenize=None, num_pool=-1, language=None
 ):
     """
     Process data in parallel using multiple CPUs.
@@ -517,6 +525,7 @@ def parallel_preprocess(
             _preprocess,
             preprocess_pipeline=preprocess_pipeline,
             word_tokenize=word_tokenize,
+            language=language
         ),
         input_data,
         chunksize=min(1, int(len(input_data) / num_pool)),

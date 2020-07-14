@@ -42,10 +42,14 @@ from utils_nlp.models.transformers.common import Transformer
 
 MODEL_CLASS = {"bert-base-uncased": BertModel, 
                "bert-base-german-cased": BertModel, 
+               "distilbert-base-uncased": BertModel,
                "dbmdz/bert-base-german-uncased": BertModel,
                "bert-base-german-dbmdz-cased": BertModel,
                "bert-base-multilingual-cased": BertModel,
-               "distilbert-base-german-cased": BertModel
+               "distilbert-base-german-cased": BertModel,
+               "bert-base-german-dbmdz-uncased": BertModel,
+               "severinsimmler/bert-adapted-german-press": BertModel,
+               "xlm-roberta-large-finetuned-conll03-german": BertModel, # not sure about this one...
               }
 
 
@@ -402,7 +406,7 @@ class ExtSumProcessor:
             Labels are only returned when train_mode is True.
         """
 
-        if model_name.split("-")[0] in ["bert", "distilbert", "dbmz/bert"]:
+        if "bert" in model_name:
             if train_mode:
                 batch = batch.to(device)
                 # labels must be the last

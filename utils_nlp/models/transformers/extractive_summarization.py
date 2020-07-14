@@ -40,10 +40,14 @@ from utils_nlp.models.transformers.bertsum.dataset import (
 from utils_nlp.models.transformers.bertsum.model_builder import BertSumExt
 from utils_nlp.models.transformers.common import Transformer
 
-MODEL_CLASS = {
-    "bert-base-uncased": BertModel,
-    "distilbert-base-uncased": DistilBertModel,
-}
+MODEL_CLASS = {"bert-base-uncased": BertModel, 
+               "bert-base-german-cased": BertModel, 
+               "dbmdz/bert-base-german-uncased": BertModel,
+               "bert-base-german-dbmdz-cased": BertModel,
+               "bert-base-multilingual-cased": BertModel,
+               "distilbert-base-german-cased": BertModel
+              }
+
 
 logger = logging.getLogger(__name__)
 
@@ -311,7 +315,7 @@ class ExtSumProcessor:
 
     def __init__(
         self,
-        model_name="distilbert-base-uncased",
+        model_name="bert-base-german-dbmdz-cased",
         to_lower=False,
         cache_dir=".",
         max_nsents=200,
@@ -398,7 +402,7 @@ class ExtSumProcessor:
             Labels are only returned when train_mode is True.
         """
 
-        if model_name.split("-")[0] in ["bert", "distilbert"]:
+        if model_name.split("-")[0] in ["bert", "distilbert", "dbmz/bert"]:
             if train_mode:
                 batch = batch.to(device)
                 # labels must be the last
@@ -560,7 +564,7 @@ class ExtractiveSummarizer(Transformer):
     def __init__(
         self,
         processor,
-        model_name="distilbert-base-uncased",
+        model_name="bert-base-german-dbmdz-cased",
         encoder="transformer",
         max_pos_length=512,
         cache_dir=".",

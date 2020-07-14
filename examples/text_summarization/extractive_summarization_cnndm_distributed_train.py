@@ -66,8 +66,8 @@ parser.add_argument(
     "--model_name",
     type=str,
     default="distilbert-base-uncased",
-    help='Transformer model used in the extractive summarization, only \
-                        "bert-uncased" and "distilbert-base-uncased" are supported.',
+    help='Transformer model used in the extractive summarization, check list \
+                        to see which are supported are supported.',
 )
 parser.add_argument(
     "--encoder",
@@ -199,14 +199,13 @@ def main_worker(local_rank, ngpus_per_node, summarizer, args):
     if local_rank not in [-1, 0]:
         torch.distributed.barrier()
 
-    # download_path = CNNDMBertSumProcessedData.download(local_path=args.data_dir)
-    # ext_sum_train, ext_sum_train = ExtSumProcessedData().splits(
-    #    root=download_path, train_iterable=True
-    # )
     if args.train_file is None or args.test_file is None:
-        train_dataset, test_dataset = CNNDMSummarizationDataset(
-            top_n=TOP_N, local_cache_path=args.data_dir
+        train_dataset, validation_dataset, test_dataset = SwissSummarizationDataset(
+            top_n=TOP_N, 
+            validation=True, 
+            language='german'
         )
+        
         ext_sum_train = summarizer.processor.preprocess(train_dataset, oracle_mode="greedy")
         ext_sum_test = summarizer.processor.preprocess(test_dataset, oracle_mode="greedy")
     else:

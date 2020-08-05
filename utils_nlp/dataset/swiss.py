@@ -15,7 +15,7 @@ from nltk import tokenize
 from nltk.tokenize.treebank import TreebankWordDetokenizer
 import os
 import regex as re
-from torchtext.utils import extract_archive
+# from torchtext.utils import extract_archive
 import pandas
 from sklearn.model_selection import train_test_split
 

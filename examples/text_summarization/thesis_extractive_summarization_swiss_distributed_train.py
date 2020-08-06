@@ -135,7 +135,12 @@ parser.add_argument(
     default=None,
     help="test data file for evaluation.",
 )
-
+parser.add_argument(
+    "--load_state_path",
+    type=str,
+    default=None,
+    help="if continuing to train previous model, provide path to previous model",
+)
 
 
 def cleanup():
@@ -164,6 +169,10 @@ def main():
     summarizer = ExtractiveSummarizer(
         processor, args.model_name, args.encoder, args.max_pos_length, args.cache_dir
     )
+    
+    if args.load_state_path is not None:
+        print("loading previously trained model in dir {}".format(args.load_state_path))
+        summarizer.model.load_state_dict(torch.load(args.load_state_path, map_location="cpu"))
 
     mp.spawn(
         main_worker, nprocs=ngpus_per_node, args=(ngpus_per_node, summarizer, args)

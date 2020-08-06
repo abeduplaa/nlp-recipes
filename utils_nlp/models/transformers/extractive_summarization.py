@@ -14,7 +14,7 @@ import numpy as np
 import torch
 from torch.utils.data import DataLoader, RandomSampler, SequentialSampler
 from torch.utils.data.distributed import DistributedSampler
-from transformers import AutoTokenizer, BertModel, DistilBertModel
+from transformers import AutoTokenizer, BertModel, DistilBertModel, XLMRobertaModel
 
 from utils_nlp.common.pytorch_utils import (
     compute_training_steps,
@@ -49,7 +49,7 @@ MODEL_CLASS = {"bert-base-uncased": BertModel,
                "distilbert-base-german-cased": BertModel,
                "bert-base-german-dbmdz-uncased": BertModel,
                "severinsimmler/bert-adapted-german-press": BertModel,
-               "xlm-roberta-large-finetuned-conll03-german": BertModel, # not sure about this one...
+               "xlm-roberta-large-finetuned-conll03-german": XLMRobertaModel, # not sure about this one...
               }
 
 

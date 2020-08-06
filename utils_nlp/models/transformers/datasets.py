@@ -528,7 +528,7 @@ def parallel_preprocess(
             language=language
         ),
         input_data,
-        chunksize=min(1, int(len(input_data) / num_pool)),
+        chunksize=max(1, int(len(input_data) / num_pool)),
     )
     p.close()
     p.join()

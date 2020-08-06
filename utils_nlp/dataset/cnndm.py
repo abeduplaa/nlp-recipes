@@ -56,6 +56,13 @@ def _remove_ttags(line):
     line = re.sub(r"</t>", "<q>", line)
     return line
 
+def _remove_tags(line):
+    line = re.sub(r"<t>", "", line)
+    # change </t> to <q>
+    # pyrouge test requires <q> as sentence splitter
+    line = re.sub(r"</t>", "", line)
+    return line
+
 
 def _target_sentence_tokenization(line):
     return line.split("<q>")
@@ -133,7 +140,7 @@ def CNNDMSummarizationDataset(*args, **kwargs):
     URLS = ["https://s3.amazonaws.com/opennmt-models/Summary/cnndm.tar.gz"]
 
     def _setup_datasets(
-        url, top_n=-1, local_cache_path=".data", prepare_extractive=True
+        url, top_n=-1, local_cache_path=".data", sent_split=True, prepare_extractive=True
     ):
         FILE_NAME = "cnndm.tar.gz"
         maybe_download(url, FILE_NAME, local_cache_path)
@@ -148,6 +155,30 @@ def CNNDMSummarizationDataset(*args, **kwargs):
                 test_source_file = fname
             if fname.endswith("test.txt.tgt.tagged"):
                 test_target_file = fname
+        if not sent_split:
+            return (
+                SummarizationDataset(
+                    train_source_file,
+                    target_file=train_target_file,
+                    source_preprocessing=[_clean,],
+                    target_preprocessing=[
+                        _clean,
+                        _remove_tags,
+                    ],
+                    top_n=top_n
+                ),
+                SummarizationDataset(
+                    test_source_file,
+                    source_preprocessing=[_clean,],
+                    target_preprocessing=[
+                        _clean,
+                        _remove_tags,
+                    ],
+                    target_file=test_target_file,
+                    top_n=top_n
+                ),
+
+            )
 
         if prepare_extractive:
 

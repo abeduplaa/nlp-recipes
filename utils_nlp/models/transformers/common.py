@@ -188,7 +188,7 @@ class Transformer:
             epoch_iterator = tqdm(
                 train_dataloader,
                 desc="Iteration",
-                disable=local_rank not in [-1, 0] or not verbose,
+                disable=True #local_rank not in [-1, 0] or not verbose,
             )
             for step, batch in enumerate(epoch_iterator):
                 inputs = get_inputs(batch, device, self.model_name)
@@ -248,6 +248,10 @@ class Transformer:
                         )
                         logger.info(log_line)
                         print(log_line)
+                        if validation_function:
+                            validation_log = validation_function(self)
+                            logger.info(validation_log)
+                            print(validation_log)
                         accum_loss = 0
                         train_size = 0
                         start = end

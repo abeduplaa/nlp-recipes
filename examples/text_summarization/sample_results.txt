@@ -5,7 +5,7 @@ Source target:
 "Die Aurora ist ein Kriegsschiff der ehemaligen Kaiserlich Russischen Marine und liegt seit 1956 als Museumsschiff in Sankt Petersburg . Das Schiff gilt unter der Bezeichnung Panzerkreuzer Aurora als Symbol der Oktoberrevolution ." 
 
 Model Prediction: 
-"Die "Aurora" war das dritte Schiff der "Pallada"-Klasse, die in Russland zur Verstärkung der Ostseeflotte konstruiert und gebaut wurde. Die "Aurora" verliess am 3. Als erstes Schiff verliess die "Aurora" mit sechs Torpedobooten am 22." 
+"Die "Aurora" war das dritte Schiff der "Pallada"-Klasse, die in Russland zur Verstärkung der Ostseeflotte konstruiert und gebaut wurde. Hier trafen am gleichen Tag die "Dmitri Donskoi" mit sieben Torpedobooten und die von Japan in Italien erworbenen Panzerkreuzer "Kasuga" und "Nisshin" ein. Die Russen bemühten sich auch nicht ernsthaft um eine Verfolgung." 
 
 ======================================
  
@@ -16,7 +16,7 @@ Source target:
 "Charlton Heston , gebürtig `` John Charles Carter '' , war ein amerikanischer Schauspieler und Bürgerrechtler . Von 1998 bis 2003 war er Präsident der National Rifle Association . Bekannt wurde er durch Hauptrollen in verschiedenen in den 1950er- und 1960er-Jahren populären Monumentalfilmen . Für seine Titelrolle als `` Ben Hur '' in dem gleichnamigen Filmklassiker von 1959 wurde er mit einem Oscar ausgezeichnet . Heston blieb bis ins hohe Alter ein gefragter Darsteller . Infolge einer Alzheimer-Erkrankung musste er seine Karriere beenden ." 
 
 Model Prediction: 
-"Er wurde schon als Kind "Chuck" genannt, die Kurzform seines zweiten Vornamens Charles. Als seine Eltern sich scheiden liessen – Chuck war zehn Jahre alt – nahm er den Familiennamen seines Stiefvaters Chester Heston und den Geburtsnamen seiner Mutter Charlton als Vornamen an. William Dieterle gab Heston die Hauptrolle in seinem Film noir "Stadt im Dunkel" ." 
+"Er wurde schon als Kind "Chuck" genannt, die Kurzform seines zweiten Vornamens Charles. Einem breiten US-amerikanischen Publikum wurde er durch seine Interpretationen von Roman- und Theaterhelden in einzelnen Episoden der erfolgreichen Fernsehserie "Studio One" bekannt, darunter Heathcliff aus "Sturmhöhe" und die Titelfigur aus "Macbeth" . William Dieterle gab Heston die Hauptrolle in seinem Film noir "Stadt im Dunkel" ." 
 
 ======================================
  
@@ -27,7 +27,7 @@ Source target:
 "Ein Primzahlzwilling ist ein Paar aus zwei Primzahlen , deren Abstand 2 ist . Die kleinsten Primzahlzwillinge sind , und ." 
 
 Model Prediction: 
-"Der Begriff Primzahlzwilling wurde erstmals von Paul Stäckel benutzt. Primzahlzwilling nennt man jedes Paar formula_1 aus zwei Primzahlen formula_2 und formula_3 mit der Differenz formula_4. Zahlen der Form formula_6, formula_8 und formula_10 sind durch 2 teilbar und können deswegen mit Ausnahme der Zwei keine Primzahlen sein." 
+"Der Begriff Primzahlzwilling wurde erstmals von Paul Stäckel benutzt. Zahlen der Form formula_6, formula_8 und formula_10 sind durch 2 teilbar und können deswegen mit Ausnahme der Zwei keine Primzahlen sein. Daraus folgt, dass jeder Primzahlzwilling mit Ausnahme von formula_5 die Darstellung formula_21 hat." 
 
 ======================================
  
@@ -38,7 +38,7 @@ Source target:
 "Henri Nannen war ein deutscher Verleger und Publizist . Er war langjähriger Herausgeber und Chefredakteur der Zeitschrift `` Stern '' ." 
 
 Model Prediction: 
-"Henri Nannen, Sohn des Polizeibeamten Klaas Nannen und Elise Nannen, geb. In der Anfangszeit wirkte auch Kurt Zentner, der Begründer und erste Chefredakteur der nationalsozialistischen Zeitschrift "Der Stern" neben Nannen ein halbes Jahr lang als dessen Stellvertreter. Unter Nannens Engagement wurde aus der Illustrierten "Stern" Europas auflagenstärkstes Magazin." 
+"Henri Nannen, Sohn des Polizeibeamten Klaas Nannen und Elise Nannen, geb. Beim Reichssender München begann er seine journalistische Karriere. In der Anfangszeit wirkte auch Kurt Zentner, der Begründer und erste Chefredakteur der nationalsozialistischen Zeitschrift "Der Stern" neben Nannen ein halbes Jahr lang als dessen Stellvertreter." 
 
 ======================================
  
@@ -49,7 +49,7 @@ Source target:
 "Michail Iwanowitsch Kalinin war ein sowjetischer Politiker . Er war von 1923 bis 1946 als Vorsitzender des Präsidiums des Obersten Sowjets der UdSSR formelles Staatsoberhaupt der Sowjetunion ; zuvor von März 1919 bis Dezember 1922 formelles Staatsoberhaupt Sowjetrusslands ." 
 
 Model Prediction: 
-"M. I. Kalinin war Sohn des Bauern Iwan Kalinytsch Kalinin und dessen Frau Maria Wassiljewna. Durch seine politischen Aktivitäten in den Putilow-Werken folgte am 3./4. Dort arbeitete er in der Maschinenfabrik Volta, ab 1902 in den Eisenbahnwerkstätten von Reval und führte seine illegale revolutionäre Arbeit fort." 
+"M. I. Kalinin war Sohn des Bauern Iwan Kalinytsch Kalinin und dessen Frau Maria Wassiljewna. Dort arbeitete er im Werk "Stary Arsenal". Während der Haft durfte er nach einigem Zögern der Leitung der Untersuchungshaftanstalt politische Bücher studieren, u. a. Karl Marx’ "Kapital." 
 
 ======================================
  
@@ -60,7 +60,7 @@ Source target:
 "Das Jahr 1952 war geprägt von dem weiterhin andauernden Koreakrieg . In Europa wird mit der Montanunion die Grundlage der späteren Europäischen Gemeinschaft gelegt , die Bundesrepublik wird damit weiter in Westeuropa eingegliedert ." 
 
 Model Prediction: 
-"Der weiterhin andauernde Koreakrieg entwickelte sich zu einem Stellungskrieg entlang des 38. Breitengrades; auch massive Bombardements auf die Infrastruktur Nordkoreas änderten daran wenig. Ebenfalls fand im Juli 1952 in der Werner-Seelenbinder-Halle in Ost-Berlin die 2." 
+"Der weiterhin andauernde Koreakrieg entwickelte sich zu einem Stellungskrieg entlang des 38. Die USA waren an der Stärkung ihrer Position in Fernost interessiert und waren massgeblich daran beteiligt, dass mit Japan ein Friedensvertrag abgeschlossen wurde, der das Besatzungsregime offiziell beendete. Der Nahe Osten wurde vor allem durch zwei Staatsstreiche erschüttert: Im Juli wurde König Faruq in Ägypten durch das Militär gestürzt und dessen minderjähriger Sohn Fu’ad II." 
 
 ======================================
  
@@ -71,7 +71,7 @@ Source target:
 "Mit Ampelkoalition bezeichnet man die Zusammenarbeit dreier politischer Parteien zur Bildung einer stabilen Regierungsmehrheit . Ausgehend von der ursprünglichen Bedeutung der Koalition einer sozialdemokratischen oder sozialistischen , einer liberalen und einer grünen Partei , hat der Begriff einige Varianten entwickelt ." 
 
 Model Prediction: 
-"Mit "Ampelkoalition" wird in Deutschland üblicherweise eine regierende Koalition der Parteien SPD, FDP und Bündnis 90/Die Grünen bezeichnet, da die traditionellen Farben dieser Parteien den Farben einer Ampel entsprechen. Mit der Vereidigung des zweiten Kabinetts Dreyer trat diese Koalition am 18. Eine analoge Konstellation nach der Niedersachsenwahl 2017 schied aufgrund der deutlichen Ablehnung der FDP aus, die SPD musste deswegen eine Grosse Koalition mit den intensiv bekämpften Rivalen der CDU bilden." 
+"Mit "Ampelkoalition" wird in Deutschland üblicherweise eine regierende Koalition der Parteien SPD, FDP und Bündnis 90/Die Grünen bezeichnet, da die traditionellen Farben dieser Parteien den Farben einer Ampel entsprechen. Bündnis 90 fusionierte 1993 mit den Grünen zu Bündnis 90/Die Grünen, die Fraktionsmitglieder des Bündnis 90 traten der neuen Partei jedoch nicht alle bei. Ferner wurden Ampelkoalitionen in den letzten Jahren auf Bundes- und Landesebene von der FDP und insbesondere von Guido Westerwelle mit Verweis auf die unterschiedlichen Parteiprogramme von SPD und Grünen einerseits und der FDP andererseits wiederholt abgelehnt." 
 
 ======================================
  
@@ -82,7 +82,7 @@ Source target:
 "Der Landkreis Harburg ist eine Gebietskörperschaft in der Metropolregion Hamburg im Norden des Landes Niedersachsen . Er entstand 1932 aus dem kleineren Kreis Harburg und dem Kreis Winsen und ist Teil des Lüneburgischen Landschaftsverbands . Kreisstadt ist Winsen , einwohnerstärkste Kommune ist Seevetal ." 
 
 Model Prediction: 
-"Der Landkreis grenzt im Nordosten an die Marschgebiete der Unterelbe. Im Nordwesten liegt der Höhenzug der Harburger Berge, in dem sich mit dem 155 Meter hohen Hülsenberg auch die höchste Erhebung des Landkreises befindet und grenzt an die Freie und Hansestadt Hamburg, zu der heute auch die für den Kreis namensgebende ehemalige Stadt Harburg gehört. Der Staat Preussen bildete mit Wirkung vom 1." 
+"Der Landkreis grenzt im Nordosten an die Marschgebiete der Unterelbe. Die grösste Stadt des Landkreises ist Buchholz in der Nordheide. Der Landkreis Harburg grenzt im Uhrzeigersinn im Norden beginnend an Hamburg mit den Bezirken Harburg und Bergedorf, an den Kreis Herzogtum Lauenburg sowie an die Landkreise Lüneburg, Heidekreis, Rotenburg und Stade ." 
 
 ======================================
  
@@ -93,7 +93,7 @@ Source target:
 "Der Staatspräsident von Polen steht an der Spitze der Exekutive . Amtierender Präsident ist seit dem 6. August 2015 Andrzej Duda ." 
 
 Model Prediction: 
-"Die Kompetenzen des Präsidenten sind in der aktuellen Verfassung von 1997 in Kapitel 5 festgelegt. Im Regelfall unterzeichnet der Präsident die vom Parlament ausgefertigten Gesetze binnen 21 Kalendertagen. Sollte der Präsident von diesem Recht keinen Gebrauch machen, steht es ihm gemäss Abs." 
+"Die Kompetenzen des Präsidenten sind in der aktuellen Verfassung von 1997 in Kapitel 5 festgelegt. 126 zum "höchsten Staatsvertreter" und Garanten der Staatsmachtkontinuität erklärt. Alleine der Präsident ist befähigt, die polnische Staatsangehörigkeit zu verleihen." 
 
 ======================================
  
@@ -104,7 +104,7 @@ Source target:
 "Dominante , auch Oberdominante , bezeichnet in der Harmonielehre die fünfte Stufe einer Tonleiter und die Funktion aller darauf basierenden Akkorde . Die Dominante liegt eine Quinte über der Tonika und bildet zusammen mit dieser und der Subdominante eine der drei Hauptstufen bzw. Hauptfunktionen der tonalen Harmonik ." 
 
 Model Prediction: 
-"Die Quint-Fortschreitung von der tonikalen zur dominantischen Funktion erzeugt eine Erwartung an einen Rückfall in die tonikale Ruhe-Lage . Das Auflösungsbestreben der Dominante in die Tonika wird durch die Strebetendenz des im Dominantakkord enthaltenen Leittons unterstützt. Im "natürlichen Moll" ist die grosse Septime als Leitton zur Tonika nicht leitereigen." 
+"Die Quint-Fortschreitung von der tonikalen zur dominantischen Funktion erzeugt eine Erwartung an einen Rückfall in die tonikale Ruhe-Lage . Das Auflösungsbestreben der Dominante in die Tonika wird durch die Strebetendenz des im Dominantakkord enthaltenen Leittons unterstützt. Wird dieser Leitton nicht verwendet, spricht man verdeutlichend von einer Moll-Dominante." 
 
 ======================================
  
@@ -115,7 +115,7 @@ Source target:
 "Heinrich Harrer war österreichischer Bergsteiger , Forschungsreisender , Geograf und Autor . Bekannt wurde er als einer der Erstbesteiger der Eiger-Nordwand sowie durch sein Buch `` Sieben Jahre in Tibet '' und dessen Verfilmung . 1962 gelang ihm die Erstbesteigung der Carstensz-Pyramide im Westen Neu-Guineas , einem der Seven Summits . Seit 1983 befindet sich in Hüttenberg das Heinrich-Harrer-Museum ." 
 
 Model Prediction: 
-"Heinrich Josef Harrer wurde als erstes von vier Kindern der Eheleute Josef Harrer und Johanna geb. Penker in Obergossen bei Knappenberg geboren. Erst 1996, im Vorfeld zum Film Sieben Jahre in Tibet , fand der ORF-Redakteur und Filmemacher Gerald Lehner in amerikanischen Archiven Mitgliedsausweise." 
+"Heinrich Josef Harrer wurde als erstes von vier Kindern der Eheleute Josef Harrer und Johanna geb. 1933 bis 1938 absolvierte er an der Grazer Karl-Franzens-Universität ein Lehramtsstudium in den Fächern Geografie und Sport. Im März 1938 kam es zum sogenannten Anschluss Österreichs an das Deutsche Reich." 
 
 ======================================
  
@@ -126,7 +126,7 @@ Source target:
 "Podgorica ist die Hauptstadt Montenegros . Mit Ausnahme des Staatspräsidenten , der in Cetinje residiert , haben hier alle wichtigen Institutionen der Republik ihren Sitz . Podgorica hat 185.937 Einwohner . Von 1946 bis 1992 hiess die Stadt nach Josip Broz Tito Titograd . Der Name `` Podgorica '' bedeutet auf Deutsch `` Fuss des Hügels '' ." 
 
 Model Prediction: 
-"Die montenegrinische Hauptstadt liegt in einer weiten Ebene an der Mündung der Zeta in die Morača, die Podgorica von Norden nach Süden durchfliesst. Ausser der Hauptstadt gehören die Kleinstädte Golubovci und Tuzi sowie insgesamt 57 Dörfer und Siedlungen zur Gemeinde. Jahrhunderts hatte die Stadt 13.000 Einwohner." 
+"Die montenegrinische Hauptstadt liegt in einer weiten Ebene an der Mündung der Zeta in die Morača, die Podgorica von Norden nach Süden durchfliesst. Die Ergebnisse des Kongresses bedeuteten das Ende von vier Jahrhunderten osmanischer Herrschaft. Podgorica ist seit dieser Zeit die grösste Stadt des Landes und der wichtigste Handelsplatz." 
 
 ======================================
  
@@ -137,7 +137,7 @@ Source target:
 "Eugene Wesley `` Gene '' Roddenberry war ein amerikanischer Drehbuchautor , Fernseh- und Filmproduzent und der Schöpfer von `` Star Trek `` ." 
 
 Model Prediction: 
-"Roddenberry wurde 1921 in El Paso in Texas geboren. Er besuchte kurzzeitig das Los Angeles City College. Die Produktion des Pilotfilms dauerte von Oktober 1964 bis Februar 1965." 
+"Roddenberry wurde 1921 in El Paso in Texas geboren. Seit Anfang der 1950er betätigte er sich auch als freier Drehbuchautor und schrieb Drehbücher für zahlreiche US-Fernsehserien, unter anderem "Polizeibericht", "Streifenwagen 2150", "Dr. Kildare", "Gnadenlose Stadt", "The U.S. Steel Hour" und "Have Gun, Will Travel" . 1959 versuchte er, die erste selbst konzipierte Serie "333 Montgomery Street" unterzubringen, und produzierte dafür einen Pilotfilm, der jedoch abgelehnt wurde." 
 
 ======================================
  
@@ -148,7 +148,7 @@ Source target:
 "Das Leinebergland ist eine Mittelgebirgsregion im Niedersächsischen Bergland entlang der Leine zwischen Göttingen und Hannover . Es grenzt im Westen an das Weserbergland , im Nordosten an das Innerstebergland , im Osten an den Harz und im Südosten an das Untereichsfeld ." 
 
 Model Prediction: 
-"Das Leinebergland, das das Weserbergland nach Osten und den Harz nach Westen abdacht, ist keine streng nach naturräumlichen Aspekten definierte Landschaft, folgt jedoch einer vergleichsweise einfachen Gliederung. Im Südosten des Leineberglandes erstreckt sich rechts des Grabens die von Buntsandstein und Muschelkalk geprägte Hochfläche des Göttingen-Northeimer Waldes, dessen Westrand von Friedland über Göttingen und Nörten-Hardenberg bis Northeim reicht. Unmittelbar nördlich von Einbeck erreicht mit der Hube ein Ausläufer des Südwestlichen Harzvorlandes auch die linke Leineseite und "verriegelt" den Leinegraben nach Norden hin." 
+"Das Leinebergland, das das Weserbergland nach Osten und den Harz nach Westen abdacht, ist keine streng nach naturräumlichen Aspekten definierte Landschaft, folgt jedoch einer vergleichsweise einfachen Gliederung. Diese Landschaft geht nach Norden über ins ebenfalls zu grossen Teilen bewaldete Schichtstufen- und Bruchschollenlandschaft des Südwestlichen Harzvorlandes, in dem sich neben Buntsandstein und Muschelkalk auch Jurakalke finden. Links des Grabens steht den beiden letztgenannten Landschaften das landwirtschaftlich intensiv genutzte Sollingvorland gegenüber." 
 
 ======================================
  
@@ -159,7 +159,7 @@ Source target:
 "Bad Karlshafen ist eine Kurstadt im Landkreis Kassel sowie die nördlichste Gemeinde Hessens . Im Stadtgebiet , das sich auf 14,85 km2 Fläche ausbreitet , leben 3778 Einwohner , davon 2300 im Stadtteil Bad Karlshafen und 1600 im Stadtteil Helmarshausen . Seit 1977 trägt Karlshafen den Namen Bad Karlshafen und wird auch als Soleheilbad und Barockstadt beworben . Die Stadt ist ein staatlich anerkanntes Heilbad ." 
 
 Model Prediction: 
-"Bad Karlshafen liegt an der Nordgrenze von Nordhessen nahe dem an den direkt nordwestlich der Stadt gelegenen Hannoverschen Klippen befindlichen Dreiländereck Hessen−Niedersachsen−Nordrhein-Westfalen zwischen dem Solling im Norden und dem Reinhardswald im Süden. Landgraf Karl ordnete den Aufbau einer neuen Fabrik- und Handelsstadt an, und sein Ingenieur und Baumeister Friedrich Conradi begann die Planungen dazu. Im Jahre 1717 wurde der Ort durch den Hofbaumeister Paul du Ry zu Ehren von "Carl Landgraf zu Hessen" in "Carlshaven" umbenannt." 
+"Bad Karlshafen liegt an der Nordgrenze von Nordhessen nahe dem an den direkt nordwestlich der Stadt gelegenen Hannoverschen Klippen befindlichen Dreiländereck Hessen−Niedersachsen−Nordrhein-Westfalen zwischen dem Solling im Norden und dem Reinhardswald im Süden. Diese Pläne konnten jedoch nur teilweise realisiert werden, ebenso wie die weiteren Ausbaupläne für die Stadt Karlshafen. 1704 wurde das Invalidenhaus errichtet." 
 
 ======================================
  
@@ -170,7 +170,7 @@ Source target:
 "Unter Aktiva versteht man die Summe des einem Unternehmen zur Verfügung stehenden Vermögens , das auf der linken Seite einer Bilanz zu finden ist . Gegensatz sind die Passiva ." 
 
 Model Prediction: 
-"Aktiva stehen auf der Aktivseite der Bilanz und stellen die einem Unternehmen zur Verfügung stehenden Vermögensgegenstände dar. Hiermit soll den Vermögensrisiken angemessen Rechnung getragen werden, die in der Gefahr eines ganzen oder teilweisen Wertverlustes einzelner Vermögensgegenstände bestehen. 1 und 2, und HGB nach bestimmten Kriterien, wie z.B." 
+"Aktiva stehen auf der Aktivseite der Bilanz und stellen die einem Unternehmen zur Verfügung stehenden Vermögensgegenstände dar. Daraus ergibt sich die Gleichung Die drei Bilanzprinzipien der Bilanzwahrheit, Bilanzklarheit und Bilanzkontinuität gelten sowohl für Aktiv- als auch Passivseite. Danach besteht die Aktivseite auf der ersten Gliederungsebene abschliessend aus Anlagevermögen, Umlaufvermögen, aktiven Rechnungsabgrenzungsposten, aktiven latenten Steuern und dem aktiven Unterschiedsbetrag aus der Vermögensverrechnung." 
 
 ======================================
  
@@ -181,7 +181,7 @@ Source target:
 "Norilsk ist eine an den Nordwestausläufern des Mittelsibirischen Berglandes gelegene Grossstadt , jeweils im Norden der Region Krasnojarsk , von Sibirien und Russland . Sie hat Einwohner und gilt als nördlichste Grossstadt der Erde . Aufgrund der Nickel-Produktion weisen die Stadt und ihre Umgebung eine hohe Umweltverschmutzung auf ." 
 
 Model Prediction: 
-"Norilsk liegt rund 300 km nördlich des nördlichen Polarkreises an den Nordausläufern des Lontokoiski-Kamen-Gebirges , des äusseren Nordwestausläufers des Mittelsibirischen Berglands; etwas östlich, jenseits der einiges nordöstlich der Stadt fliessenden Norilka, erhebt sich das Putorana-Gebirge als weitaus grösserer Nordwestteil dieses Berglands. Unweit westlich liegt der Stadtteil Kajerkan und nordöstlich am Putoranagebirge der Stadtteil Talnach. 2" , in dem zusätzlich ca." 
+"Norilsk liegt rund 300 km nördlich des nördlichen Polarkreises an den Nordausläufern des Lontokoiski-Kamen-Gebirges , des äusseren Nordwestausläufers des Mittelsibirischen Berglands; etwas östlich, jenseits der einiges nordöstlich der Stadt fliessenden Norilka, erhebt sich das Putorana-Gebirge als weitaus grösserer Nordwestteil dieses Berglands. Der administrative Status einer Stadt wurde Norilsk 1953 verliehen. In den ersten beiden Jahrzehnten wurden Norilsk und das dortige Nickelkombinat fast ausschliesslich von Gulag-Gefangenen gebaut und betrieben, die in dem von 1935 bis 1956 bestehenden "Norilsker Besserungsarbeitslager" inhaftiert waren." 
 
 ======================================
  
@@ -192,7 +192,7 @@ Source target:
 "Henry David Thoreau war ein amerikanischer Schriftsteller und Philosoph ." 
 
 Model Prediction: 
-"Thoreau wurde am 12. Juli 1846 verbrachte Thoreau im Gefängnis, weil er sich weigerte, seine Steuerschuld gegenüber Massachusetts, die "Poll tax" oder Kopfsteuer, zu begleichen und mit diesen Steuergeldern die amerikanische Regierung zu unterstützen. Diese Vorträge fasste er zu dem Essay "Resistance to Civil Government" zusammen, der unter dem späteren Titel "Civil Disobedience" bekannt wurde ." 
+"Thoreau wurde am 12. Nach dem Tod seines Bruders lebte Thoreau zeitweilig in Emersons Haus in Concord bei Boston. Am 4." 
 
 ======================================
  
@@ -203,7 +203,7 @@ Source target:
 "Johann Christoph Friedrich Bach war ein deutscher Musiker und Komponist aus der Familie Bach und dritter der vier komponierenden Bachsöhne . Zur Kennzeichnung wird er häufig `` der Bückeburger Bach '' genannt ." 
 
 Model Prediction: 
-"Johann Christoph Friedrich Bachs Lebenslauf begann wie der seiner Brüder: Er erhielt eine Ausbildung an der Leipziger Thomasschule sowie musikalischen Unterricht durch seinen Vater. Januar 1755 heiratete Bach die Hofsängerin Münchhausen, die beiden Italiener verliessen 1756 mit Beginn des Siebenjährigen Krieges den Hof, und Bach übernahm nun deren Aufgaben. Von Oktober 1757 bis April 1758, in der Zeit des Siebenjährigen Kriegs, hatte sich der Graf mit einigen Mitgliedern des Hofes, darunter Bach, auf seinen Sitz in Nienstedten an der Elbe zurückgezogen." 
+"Johann Christoph Friedrich Bachs Lebenslauf begann wie der seiner Brüder: Er erhielt eine Ausbildung an der Leipziger Thomasschule sowie musikalischen Unterricht durch seinen Vater. Am 8. Neben der Leitung der Konzerte hatte er für die Anschaffung und Komposition neuer Musik zu sorgen." 
 
 ======================================
  
@@ -214,7 +214,7 @@ Source target:
 "Das ohmsche Gesetz postuliert folgenden Zusammenhang : Wird an ein Objekt eine veränderliche elektrische Spannung angelegt , so verändert sich der hindurchfliessende elektrische Strom in seiner Stärke proportional zur Spannung . Mit anderen Worten : Der als Quotient aus Spannung und Stromstärke definierte elektrische Widerstand ist konstant , also unabhängig von Spannung und Stromstärke . Tatsächlich gilt das Gesetz nur in engem Rahmen und nur für einige Stoffe – insbesondere für Metalle unter der Voraussetzung konstanter Temperatur . Dennoch ist es die Basis für das Verständnis der Zusammenhänge zwischen Stromstärke und Spannung in elektrischen Stromkreisen . Die Bezeichnung des Gesetzes ehrt Georg Simon Ohm , der diesen Zusammenhang für einige einfache elektrische Leiter als Erster schlüssig nachweisen konnte ." 
 
 Model Prediction: 
-"Dieses Verhältnis einer an einem elektrischen Leiter anliegenden elektrischen Spannung formula_1 zur Stärke formula_2 des hindurchfliessenden elektrischen Stromes wird definiert als die Grösse "elektrischer Widerstand," die mit dem Formelzeichen formula_3 bezeichnet wird. Für die Beschreibung solchen Verhaltens kann der Begriff differentieller Widerstand hilfreich sein, der den Zusammenhang zwischen einer kleinen Spannungsänderung formula_8 und der zugehörigen Stromstärkeänderung formula_9 angibt. Die Elektronen erreichen somit eine Driftgeschwindigkeit formula_26 mit formula_27." 
+"Dieses Verhältnis einer an einem elektrischen Leiter anliegenden elektrischen Spannung formula_1 zur Stärke formula_2 des hindurchfliessenden elektrischen Stromes wird definiert als die Grösse "elektrischer Widerstand," die mit dem Formelzeichen formula_3 bezeichnet wird. Bei zeitlich veränderlichen Grössen sind Augenblickswerte zu verwenden. Das ohmsche Gesetz betrachtet den Widerstand als eine von formula_1 und formula_2 unabhängige Konstante und ist insofern eine Idealisierung." 
 
 ======================================
  
@@ -225,7 +225,7 @@ Source target:
 "Rudolf Albert Scharping ist ein deutscher Politiker und Sportfunktionär . Er war von 1991 bis 1994 Ministerpräsident des Landes Rheinland-Pfalz und von 1998 bis 2002 Bundesminister der Verteidigung . Von 1993 bis 1995 war er ausserdem Bundesvorsitzender der SPD , bei der Bundestagswahl 1994 war er Kanzlerkandidat . Von März 1995 bis Mai 2001 war er Parteivorsitzender der Sozialdemokratischen Partei Europas . Seit dem Ausscheiden aus dem Bundestag im Jahr 2005 hat er sich aus der öffentlichen Politik weitgehend zurückgezogen . Seit 2005 ist er Präsident des Bundes Deutscher Radfahrer ." 
 
 Model Prediction: 
-"Nach dem Abitur 1966 am Gymnasium Lahnstein war Scharping Reserveoffizieranwärter bei der Bundeswehr, wurde jedoch nach wenigen Wochen beim Jagdbombergeschwader 33 in Büchel/Eifel wegen seiner Sehschwäche beurlaubt und nach einem halben Jahr entlassen. 1968 wurde ein Parteiordnungsverfahren gegen ihn eingeleitet, weil er Flugblätter gegen die Anschaffung der Starfighter verteilt hatte. Er setzte sich dabei gegen seine beiden Gegenkandidaten Gerhard Schröder und Heidemarie Wieczorek-Zeul durch." 
+"Nach dem Abitur 1966 am Gymnasium Lahnstein war Scharping Reserveoffizieranwärter bei der Bundeswehr, wurde jedoch nach wenigen Wochen beim Jagdbombergeschwader 33 in Büchel/Eifel wegen seiner Sehschwäche beurlaubt und nach einem halben Jahr entlassen. Nach fünf Semestern wechselte er zum Hauptfach Politikwissenschaft und legte 1974 seine Magisterprüfung ab. 1984 bis 1990 war er Vorsitzender des SPD-Bezirks Rheinland/Hessen-Nassau, 1985 bis 1991 Vorsitzender der SPD-Landtagsfraktion, 1985 bis 1993 Vorsitzender der SPD Rheinland-Pfalz." 
 
 ======================================
  
@@ -236,7 +236,7 @@ Source target:
 "Braunau am Inn ist die älteste und mit Einwohnern bevölkerungsreichste Stadtgemeinde im Innviertel in Oberösterreich . Die Grenzstadt am Inn bildet mit der gegenüberliegenden deutschen Stadtgemeinde Simbach am Inn in Bayern ein grenzübergreifendes Mittelzentrum . Braunau ist Sitz der Bezirkshauptmannschaft vom Bezirk Braunau am Inn ." 
 
 Model Prediction: 
-"Braunau am Inn liegt im Innviertel auf 352 m Höhe, etwa 15 km östlich des Zusammenflusses von Inn und Salzach. Im Zuge des Österreichischen Erbfolgekrieges wurde Braunau 1743 belagert. Bereits bei Kriegsbeginn wurde ein Gefangenenlager entlang der Mattig errichtet." 
+"Braunau am Inn liegt im Innviertel auf 352 m Höhe, etwa 15 km östlich des Zusammenflusses von Inn und Salzach. Die geografische Ausdehnung beträgt 7,8 km von Nord nach Süd, sowie 9,1 km von West nach Ost. Beim grossen Stadtbrand 1380 wurde die hölzerne Stadt der Gründungszeit samt Innbrücke völlig zerstört." 
 
 ======================================
  
@@ -247,7 +247,7 @@ Source target:
 "Josua [ ] ist ein männlicher Vorname . Er ist die deutsche , niederländische , norwegische und schwedische Variante des hebräischen Namen `` Jehoschua '' . Der bekannteste Namensträger ist der israelitische Führer Josua , der Sohn Nuns , in der Hebräischen Bibel , nach dem das Buch Josua benannt ist . Auch Jesus von Nazaret trug diesen Namen . Allerdings wurde nur seine griechische Namensvariante überliefert ." 
 
 Model Prediction: 
-"Die älteste Form "Jehoschua" ist ein theophorer Name und bedeutet "JHWH ist Hilfe Heil, Grossmut, Rettung". Der Name "Jehoschua" wurde in Palästina nach dem babylonischen Exil meist in der Kurzform "Jeschua" verwendet. Der Vorname Josua ist seit langem sowohl unter Christen als auch unter Juden beliebt." 
+"Die älteste Form "Jehoschua" ist ein theophorer Name und bedeutet "JHWH ist Hilfe Heil, Grossmut, Rettung". Ιησους ο του Ναυη, unterschieden. Jahrhundert, z." 
 
 ======================================
  
@@ -258,7 +258,7 @@ Source target:
 "Wolfgang Mattheuer war ein deutscher Maler , Graphiker und Bildhauer . Neben Werner Tübke und Bernhard Heisig gehört Wolfgang Mattheuer zu den Hauptvertretern der sogenannten Leipziger Schule ." 
 
 Model Prediction: 
-"Mattheuers Vater Otto Walter Mattheuer war Buchbinder in dem polygrafischen Grossbetrieb Carl Werner, seine Mutter Helene Mattheuer, geborene Spindler, Hausfrau. Wolfgang Mattheuer hatte zwei Schwestern, Gerda und Annerose. B. Sighard Gille, Erich Kissing, Wolfgang Peuker." 
+"Mattheuers Vater Otto Walter Mattheuer war Buchbinder in dem polygrafischen Grossbetrieb Carl Werner, seine Mutter Helene Mattheuer, geborene Spindler, Hausfrau. B. Sighard Gille, Erich Kissing, Wolfgang Peuker. Der Hochschullehrer Wolfgang Mattheuer bewirkte als Mitglied der ersten Absolventengeneration der Hochschule für Grafik und Buchkunst gemeinsam mit seinen Kollegen Bernhard Heisig und Werner Tübke eine Richtungsänderung weg von der Lehre des "Sozialistischen Realismus"." 
 
 ======================================
  
@@ -269,7 +269,7 @@ Source target:
 "Das lateinische Alphabet ist ursprünglich das zur Schreibung der lateinischen Sprache verwendete Alphabet ; es wird in diesem Zusammenhang auch römisches Alphabet genannt . Es umfasst 26 Buchstaben und bildet die Grundlage vieler heutiger Alphabete . Zusammen bilden diese `` lateinischen Alphabete '' das lateinische Schriftsystem , das am weitesten verbreitete Schriftsystem der Welt . Einige Sprachen wie beispielsweise das Englische benutzen das Alphabet ohne Veränderungen . Das lateinische Alphabet stammt vom altitalischen Alphabet der Etrusker ab , von denen die Römer zunächst 21 Buchstaben übernahmen . Zur Zeit des klassischen Lateins und in der Spätantike bestand das Alphabet aus 23 Buchstaben . Die Zahl von 26 Buchstaben wurde erst in der Renaissance erreicht ." 
 
 Model Prediction: 
-"Das moderne lateinische Alphabet umfasst die folgenden 26 Buchstaben: Die Reihenfolge folgt weitgehend der des griechischen Alphabets und geht somit auf die Reihenfolge des phönizischen Alphabets zurück. C wurde für den stimmlosen velaren Plosiv [k] und den stimmhaften velaren Plosiv [ɡ] verwendet. Das zeigen noch die Abkürzungen "C." für "Gaius" und "Cn."" 
+"Das moderne lateinische Alphabet umfasst die folgenden 26 Buchstaben: Die Reihenfolge folgt weitgehend der des griechischen Alphabets und geht somit auf die Reihenfolge des phönizischen Alphabets zurück. Demnach geht das lateinische Alphabet auf die etruskische Schrift zurück. Die Etrusker wiederum haben ihre Schrift aus dem auf die phönizische Schrift zurückgehenden westgriechischen Alphabet entlehnt." 
 
 ======================================
  

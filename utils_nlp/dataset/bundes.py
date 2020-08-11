@@ -59,7 +59,7 @@ def BundesSummarizationDataset(top_n=-1, validation=False, prepare_extractive=Tr
     
     if CSV_PATH is None:
         CSV_PATH ='/home/ubuntu/mnt/data/bundes_dataset/csv/bundes_data.csv'
-        FILE_NAME = "bundes_data.csv"
+        # FILE_NAME = "bundes_data.csv"
         
     train = pandas.read_csv(CSV_PATH).values.tolist()
     if(top_n!=-1):

@@ -183,10 +183,8 @@ class Transformer:
 
         # train
         start = time.time()
-        print(train_dataloader)
         
         # TODO: Is this while necessary???
-        print("before the while")
         while global_step < max_steps:
             epoch_iterator = tqdm(
                 train_dataloader,
@@ -194,8 +192,6 @@ class Transformer:
                 disable=local_rank not in [-1, 0] or not verbose,
             )
             for step, batch in enumerate(epoch_iterator):
-                print("step: ", step)
-                print("batch: ", batch)
                 inputs = get_inputs(batch, device, self.model_name)
                 outputs = self.model(**inputs)
 

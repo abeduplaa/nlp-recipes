@@ -410,12 +410,7 @@ class ExtSumProcessor:
             if train_mode:
                 batch = batch.to(device)
                 # labels must be the last
-                
-                print("batch.segs: ", batch.segs)
-                print("batch.clss: ", batch.clss)
-                print("batch.mask: ", batch.mask)
-                print("batch.mask_cls: ", batch.mask_cls)
-                
+
                 return {
                     "x": batch.src,
                     "segs": batch.segs,
